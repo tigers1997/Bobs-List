@@ -1,22 +1,44 @@
 # Bob's List
 
-A curated collection of links.
+A curated collection of useful links, resources, and references worth knowing about.
 
 ---
 
 ## Table of Contents
 
 - [Developer Tools](#developer-tools)
+- [Finance](#finance)
+- [Environmental](#environmental)
 
 ---
 
 ## Developer Tools
 
-Tools to write, review, and maintain code.
+Tools that improve how you write, review, and maintain code.
 
 | Tool | Description |
 |------|-------------|
-| [Detail](https://detail.dev/) | Scans your codebase to find serious bugs — exercises your code.
+| [Detail](https://detail.dev/) | Scans your codebase to find serious bugs — exercises your code. |
+
+---
+
+## Finance
+
+
+
+| Tool | Description |
+|------|-------------|
+| [Oanda Foreign Currency Converter](https://www.oanda.com/currency-converter/) | Comprehensive resource for estimating currency exchange needs. |
+
+---
+
+## Environmental
+
+
+
+| Tool | Description |
+|------|-------------|
+
 
 ---
 
