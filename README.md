@@ -1,6 +1,6 @@
 # Bob's List
 
-A curated collection of useful links, resources, and references worth knowing about.
+A curated collection of links.
 
 ---
 
@@ -12,11 +12,11 @@ A curated collection of useful links, resources, and references worth knowing ab
 
 ## Developer Tools
 
-Tools that improve how you write, review, and maintain code.
+Tools to write, review, and maintain code.
 
 | Tool | Description |
 |------|-------------|
-| [Detail](https://detail.dev/) | Scans your codebase to find serious bugs — exercises your code, finds thousands of reproducible issues, and surfaces the top 1% most worth your attention. |
+| [Detail](https://detail.dev/) | Scans your codebase to find serious bugs — exercises your code.
 
 ---
 
