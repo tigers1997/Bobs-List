@@ -9,7 +9,20 @@
           "id": "detail",
           "name": "Detail",
           "url": "https://detail.dev/",
-          "description": "Scans your codebase to find serious bugs — exercises your code, finds thousands of reproducible issues, and surfaces the top 1% most worth your attention."
+          "description": "Scans your codebase to find serious bugs — exercises your code."
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Finance",
+      "description": "",
+      "entries": [
+        {
+          "id": "oanda-foreign-currency-converter-1774395784962",
+          "name": "Oanda Foreign Currency Converter",
+          "url": "https://www.oanda.com/currency-converter/",
+          "description": "Comprehensive resource for estimating currency exchange needs."
         }
       ]
     }
