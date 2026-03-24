@@ -1,14 +1,24 @@
 # Bob's List
 
-A curated collection of useful links, resources, and references that I've come across and think will be helpful for others.
+A curated collection of useful links, resources, and references worth knowing about.
 
-## About
+---
 
-This is a public resource list — a living document of links I find valuable enough to share. Topics may span development, tools, learning, productivity, and more.
+## Table of Contents
 
-## Contributing
+- [Developer Tools](#developer-tools)
 
-Found something worth adding? Feel free to open an issue or pull request.
+---
+
+## Developer Tools
+
+Tools that improve how you write, review, and maintain code.
+
+| Tool | Description |
+|------|-------------|
+| [Detail](https://detail.dev/) | Scans your codebase to find serious bugs — exercises your code, finds thousands of reproducible issues, and surfaces the top 1% most worth your attention. |
+
+---
 
 ## License
 
