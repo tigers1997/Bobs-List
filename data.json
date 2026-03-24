@@ -1,0 +1,17 @@
+{
+  "categories": [
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools",
+      "description": "Tools that improve how you write, review, and maintain code.",
+      "entries": [
+        {
+          "id": "detail",
+          "name": "Detail",
+          "url": "https://detail.dev/",
+          "description": "Scans your codebase to find serious bugs — exercises your code, finds thousands of reproducible issues, and surfaces the top 1% most worth your attention."
+        }
+      ]
+    }
+  ]
+}
