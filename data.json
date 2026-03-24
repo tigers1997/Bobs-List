@@ -25,6 +25,12 @@
           "description": "Comprehensive resource for estimating currency exchange needs."
         }
       ]
+    },
+    {
+      "id": "environmental",
+      "name": "Environmental",
+      "description": "",
+      "entries": []
     }
   ]
 }
