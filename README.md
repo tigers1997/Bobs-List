@@ -38,7 +38,7 @@ Tools that improve how you write, review, and maintain code.
 
 | Tool | Description |
 |------|-------------|
-
+| [EU Copernicus](https://climate.copernicus.eu/) | The Copernicus Climate Change Service (C3S) supports society by providing authoritative information about the past, present and future climate in Europe and the rest of the World. |
 
 ---
 
