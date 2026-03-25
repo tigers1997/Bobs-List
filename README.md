@@ -9,6 +9,7 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Developer Tools](#developer-tools)
 - [Finance](#finance)
 - [Environmental](#environmental)
+- [Tech](#tech)
 
 ---
 
@@ -41,6 +42,16 @@ Tools that improve how you write, review, and maintain code.
 | [EU Copernicus](https://climate.copernicus.eu/) | The Copernicus Climate Change Service (C3S) supports society by providing authoritative information about the past, present and future climate in Europe and the rest of the World. |
 | [EEA Analysis and Datasets](https://www.eea.europa.eu/en/analysis) | The European Environment Agency (EEA) is an agency of the European Union and provides valuable insights on the state of Europe's environment. Thanks to reliable data collected from our extensive network, we actively support Europe's environment and climate policies. |
 | [NOAA Annual Greenhouse Gas Index](https://gml.noaa.gov/aggi/) |  |
+
+---
+
+## Tech
+
+All links tech and tech reference
+
+| Tool | Description |
+|------|-------------|
+| [GPU Specs Database](https://www.techpowerup.com/gpu-specs/) | Comprehensive listing of GPU models and specs for AI-focused machines. |
 
 ---
 
