@@ -2,14 +2,20 @@
   "categories": [
     {
       "id": "developer-tools",
-      "name": "Developer Tools",
-      "description": "Tools that improve how you write, review, and maintain code.",
+      "name": "Developer",
+      "description": "Tools, News, repos, links to coding or software development topics",
       "entries": [
         {
           "id": "detail",
           "name": "Detail",
           "url": "https://detail.dev/",
           "description": "Scans your codebase to find serious bugs — exercises your code."
+        },
+        {
+          "id": "changelog-1774398616046",
+          "name": "Changelog",
+          "url": "https://changelog.com/",
+          "description": "Software news, email subscription, and recorded interviews."
         }
       ]
     },
@@ -61,6 +67,19 @@
           "name": "GPU Specs Database",
           "url": "https://www.techpowerup.com/gpu-specs/",
           "description": "Comprehensive listing of GPU models and specs for AI-focused machines."
+        }
+      ]
+    },
+    {
+      "id": "homelab-related",
+      "name": "Homelab Related",
+      "description": "Repos and Tech with a HomeLab Focus",
+      "entries": [
+        {
+          "id": "dell-optiplex-models-by-year-1774477398798",
+          "name": "Dell Optiplex models by year",
+          "url": "https://www.hardware-corner.net/guides/optiplex-models-by-year/",
+          "description": "Useful for identifying donor machines."
         }
       ]
     }

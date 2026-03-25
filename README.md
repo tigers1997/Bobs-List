@@ -6,20 +6,22 @@ A curated collection of useful links, resources, and references worth knowing ab
 
 ## Table of Contents
 
-- [Developer Tools](#developer-tools)
+- [Developer](#developer-tools)
 - [Finance](#finance)
 - [Environmental](#environmental)
 - [Tech](#tech)
+- [Homelab Related](#homelab-related)
 
 ---
 
-## Developer Tools
+## Developer
 
-Tools that improve how you write, review, and maintain code.
+Tools, News, repos, links to coding or software development topics
 
 | Tool | Description |
 |------|-------------|
 | [Detail](https://detail.dev/) | Scans your codebase to find serious bugs — exercises your code. |
+| [Changelog](https://changelog.com/) | Software news, email subscription, and recorded interviews. |
 
 ---
 
@@ -52,6 +54,16 @@ All links tech and tech reference
 | Tool | Description |
 |------|-------------|
 | [GPU Specs Database](https://www.techpowerup.com/gpu-specs/) | Comprehensive listing of GPU models and specs for AI-focused machines. |
+
+---
+
+## Homelab Related
+
+Repos and Tech with a HomeLab Focus
+
+| Tool | Description |
+|------|-------------|
+| [Dell Optiplex models by year](https://www.hardware-corner.net/guides/optiplex-models-by-year/) | Useful for identifying donor machines. |
 
 ---
 
