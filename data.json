@@ -50,6 +50,19 @@
           "description": ""
         }
       ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech",
+      "description": "All links tech and tech reference",
+      "entries": [
+        {
+          "id": "gpu-specs-database-1774397950514",
+          "name": "GPU Specs Database",
+          "url": "https://www.techpowerup.com/gpu-specs/",
+          "description": "Comprehensive listing of GPU models and specs for AI-focused machines."
+        }
+      ]
     }
   ]
 }
