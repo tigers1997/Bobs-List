@@ -36,6 +36,18 @@
           "name": "EU Copernicus",
           "url": "https://climate.copernicus.eu/",
           "description": "The Copernicus Climate Change Service (C3S) supports society by providing authoritative information about the past, present and future climate in Europe and the rest of the World."
+        },
+        {
+          "id": "eea-analysis-and-datasets-1774397356707",
+          "name": "EEA Analysis and Datasets",
+          "url": "https://www.eea.europa.eu/en/analysis",
+          "description": "The European Environment Agency (EEA) is an agency of the European Union and provides valuable insights on the state of Europe's environment. Thanks to reliable data collected from our extensive network, we actively support Europe's environment and climate policies."
+        },
+        {
+          "id": "noaa-annual-greenhouse-gas-index-1774397695057",
+          "name": "NOAA Annual Greenhouse Gas Index",
+          "url": "https://gml.noaa.gov/aggi/",
+          "description": ""
         }
       ]
     }
