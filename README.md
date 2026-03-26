@@ -11,6 +11,7 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Environmental](#environmental)
 - [Tech](#tech)
 - [Homelab Related](#homelab-related)
+- [Business](#business)
 
 ---
 
@@ -64,6 +65,16 @@ Repos and Tech with a HomeLab Focus
 | Tool | Description |
 |------|-------------|
 | [Dell Optiplex models by year](https://www.hardware-corner.net/guides/optiplex-models-by-year/) | Useful for identifying donor machines. |
+
+---
+
+## Business
+
+Business/Work Related
+
+| Tool | Description |
+|------|-------------|
+
 
 ---
 
