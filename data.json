@@ -82,6 +82,12 @@
           "description": "Useful for identifying donor machines."
         }
       ]
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "description": "Business/Work Related",
+      "entries": []
     }
   ]
 }
