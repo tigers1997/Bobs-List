@@ -87,7 +87,14 @@
       "id": "business",
       "name": "Business",
       "description": "Business/Work Related",
-      "entries": []
+      "entries": [
+        {
+          "id": "storytelling-with-data-1774892311643",
+          "name": "Storytelling with Data",
+          "url": "https://www.storytellingwithdata.com/",
+          "description": "Their tagline says it all: We teach people to create graphs that make sense and present compelling, action-inspiring stories"
+        }
+      ]
     }
   ]
 }

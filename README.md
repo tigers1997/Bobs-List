@@ -74,7 +74,7 @@ Business/Work Related
 
 | Tool | Description |
 |------|-------------|
-
+| [Storytelling with Data](https://www.storytellingwithdata.com/) | Their tagline says it all: We teach people to create graphs that make sense and present compelling, action-inspiring stories |
 
 ---
 
