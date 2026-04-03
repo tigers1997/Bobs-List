@@ -12,6 +12,7 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Tech](#tech)
 - [Homelab Related](#homelab-related)
 - [Business](#business)
+- [Python Packages](#python-packages)
 
 ---
 
@@ -75,6 +76,16 @@ Business/Work Related
 | Tool | Description |
 |------|-------------|
 | [Storytelling with Data](https://www.storytellingwithdata.com/) | Their tagline says it all: We teach people to create graphs that make sense and present compelling, action-inspiring stories |
+
+---
+
+## Python Packages
+
+My Favorite Python Packages
+
+| Tool | Description |
+|------|-------------|
+| [Stagehand SDK](https://github.com/browserbase/stagehand) | browser automation framework |
 
 ---
 

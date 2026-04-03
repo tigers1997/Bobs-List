@@ -95,6 +95,19 @@
           "description": "Their tagline says it all: We teach people to create graphs that make sense and present compelling, action-inspiring stories"
         }
       ]
+    },
+    {
+      "id": "python-packages",
+      "name": "Python Packages",
+      "description": "My Favorite Python Packages",
+      "entries": [
+        {
+          "id": "stagehand-sdk-1775240655358",
+          "name": "Stagehand SDK",
+          "url": "https://github.com/browserbase/stagehand",
+          "description": "browser automation framework"
+        }
+      ]
     }
   ]
 }
