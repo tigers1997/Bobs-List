@@ -13,6 +13,7 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Homelab Related](#homelab-related)
 - [Business](#business)
 - [Python Packages](#python-packages)
+- [News](#news)
 
 ---
 
@@ -23,7 +24,6 @@ Tools, News, repos, links to coding or software development topics
 | Tool | Description |
 |------|-------------|
 | [Detail](https://detail.dev/) | Scans your codebase to find serious bugs — exercises your code. |
-| [Changelog](https://changelog.com/) | Software news, email subscription, and recorded interviews. |
 
 ---
 
@@ -86,6 +86,17 @@ My Favorite Python Packages
 | Tool | Description |
 |------|-------------|
 | [Stagehand SDK](https://github.com/browserbase/stagehand) | browser automation framework |
+
+---
+
+## News
+
+News sources across all categories
+
+| Tool | Description |
+|------|-------------|
+| [The Batch Newsletter](https://www.deeplearning.ai/the-batch/) | What Matters in AI Right Now |
+| [Changelog](https://changelog.com/) | Software news, email subscription, and recorded interviews. |
 
 ---
 

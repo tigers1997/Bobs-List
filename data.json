@@ -10,12 +10,6 @@
           "name": "Detail",
           "url": "https://detail.dev/",
           "description": "Scans your codebase to find serious bugs — exercises your code."
-        },
-        {
-          "id": "changelog-1774398616046",
-          "name": "Changelog",
-          "url": "https://changelog.com/",
-          "description": "Software news, email subscription, and recorded interviews."
         }
       ]
     },
@@ -106,6 +100,25 @@
           "name": "Stagehand SDK",
           "url": "https://github.com/browserbase/stagehand",
           "description": "browser automation framework"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "News",
+      "description": "News sources across all categories",
+      "entries": [
+        {
+          "id": "the-batch-newsletter-1775258628038",
+          "name": "The Batch Newsletter",
+          "url": "https://www.deeplearning.ai/the-batch/",
+          "description": "What Matters in AI Right Now"
+        },
+        {
+          "id": "changelog-1774398616046",
+          "name": "Changelog",
+          "url": "https://changelog.com/",
+          "description": "Software news, email subscription, and recorded interviews."
         }
       ]
     }
