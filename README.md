@@ -97,6 +97,7 @@ News sources across all categories
 |------|-------------|
 | [The Batch Newsletter](https://www.deeplearning.ai/the-batch/) | What Matters in AI Right Now |
 | [Changelog](https://changelog.com/) | Software news, email subscription, and recorded interviews. |
+| [Model Evaluation & Threat Research - METR](https://metr.org/) | METR conducts research and evaluations to improve public understanding of the capabilities and risks of frontier AI systems. |
 
 ---
 

@@ -119,6 +119,12 @@
           "name": "Changelog",
           "url": "https://changelog.com/",
           "description": "Software news, email subscription, and recorded interviews."
+        },
+        {
+          "id": "model-evaluation-threat-research-metr-1775586655581",
+          "name": "Model Evaluation & Threat Research - METR",
+          "url": "https://metr.org/",
+          "description": "METR conducts research and evaluations to improve public understanding of the capabilities and risks of frontier AI systems."
         }
       ]
     }
