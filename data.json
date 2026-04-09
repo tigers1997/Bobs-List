@@ -74,6 +74,12 @@
           "name": "Dell Optiplex models by year",
           "url": "https://www.hardware-corner.net/guides/optiplex-models-by-year/",
           "description": "Useful for identifying donor machines."
+        },
+        {
+          "id": "ai-infrastructure-tco-calculator-1775747056632",
+          "name": "AI Infrastructure TCO Calculator",
+          "url": "https://huggingface.co/spaces/juliensimon/tco-simulator",
+          "description": "Compare API costs, self-hosted GPU, and local/edge deployment for AI inference workloads."
         }
       ]
     },

@@ -66,6 +66,7 @@ Repos and Tech with a HomeLab Focus
 | Tool | Description |
 |------|-------------|
 | [Dell Optiplex models by year](https://www.hardware-corner.net/guides/optiplex-models-by-year/) | Useful for identifying donor machines. |
+| [AI Infrastructure TCO Calculator](https://huggingface.co/spaces/juliensimon/tco-simulator) | Compare API costs, self-hosted GPU, and local/edge deployment for AI inference workloads. |
 
 ---
 
