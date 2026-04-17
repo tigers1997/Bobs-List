@@ -10,6 +10,12 @@
           "name": "Detail",
           "url": "https://detail.dev/",
           "description": "Scans your codebase to find serious bugs — exercises your code."
+        },
+        {
+          "id": "trail-of-bits-repos-1776433699583",
+          "name": "Trail of Bits Repos",
+          "url": "https://github.com/trailofbits",
+          "description": "Trail of Bits Open Source repos of security tools."
         }
       ]
     },

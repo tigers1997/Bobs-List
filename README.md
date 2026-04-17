@@ -24,6 +24,7 @@ Tools, News, repos, links to coding or software development topics
 | Tool | Description |
 |------|-------------|
 | [Detail](https://detail.dev/) | Scans your codebase to find serious bugs — exercises your code. |
+| [Trail of Bits Repos](https://github.com/trailofbits) | Trail of Bits Open Source repos of security tools. |
 
 ---
 
