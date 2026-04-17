@@ -131,6 +131,12 @@
           "name": "Model Evaluation & Threat Research - METR",
           "url": "https://metr.org/",
           "description": "METR conducts research and evaluations to improve public understanding of the capabilities and risks of frontier AI systems."
+        },
+        {
+          "id": "trail-of-bits-security-blog-1776433481462",
+          "name": "Trail of Bits -- Security blog",
+          "url": "https://blog.trailofbits.com/",
+          "description": "Since 2012, Trail of Bits has helped secure some of the world's most targeted organizations and products. We combine high-­end security research with a real­ world attacker mentality to reduce risk and fortify code."
         }
       ]
     }

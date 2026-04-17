@@ -99,6 +99,7 @@ News sources across all categories
 | [The Batch Newsletter](https://www.deeplearning.ai/the-batch/) | What Matters in AI Right Now |
 | [Changelog](https://changelog.com/) | Software news, email subscription, and recorded interviews. |
 | [Model Evaluation & Threat Research - METR](https://metr.org/) | METR conducts research and evaluations to improve public understanding of the capabilities and risks of frontier AI systems. |
+| [Trail of Bits -- Security blog](https://blog.trailofbits.com/) | Since 2012, Trail of Bits has helped secure some of the world's most targeted organizations and products. We combine high-­end security research with a real­ world attacker mentality to reduce risk and fortify code. |
 
 ---
 
