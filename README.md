@@ -25,6 +25,7 @@ Tools, News, repos, links to coding or software development topics
 |------|-------------|
 | [Detail](https://detail.dev/) | Scans your codebase to find serious bugs — exercises your code. |
 | [Trail of Bits Repos](https://github.com/trailofbits) | Trail of Bits Open Source repos of security tools. |
+| [Oreilly Learning](https://learning.oreilly.com/home) | Great resource for coding. May still have a 10-day trial for online content access |
 
 ---
 

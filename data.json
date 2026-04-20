@@ -16,6 +16,12 @@
           "name": "Trail of Bits Repos",
           "url": "https://github.com/trailofbits",
           "description": "Trail of Bits Open Source repos of security tools."
+        },
+        {
+          "id": "oreilly-learning-1776700363630",
+          "name": "Oreilly Learning",
+          "url": "https://learning.oreilly.com/home",
+          "description": "Great resource for coding. May still have a 10-day trial for online content access"
         }
       ]
     },
