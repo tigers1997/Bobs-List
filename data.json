@@ -105,6 +105,12 @@
           "name": "Storytelling with Data",
           "url": "https://www.storytellingwithdata.com/",
           "description": "Their tagline says it all: We teach people to create graphs that make sense and present compelling, action-inspiring stories"
+        },
+        {
+          "id": "duolingo-1777295929047",
+          "name": "Duolingo",
+          "url": "https://www.duolingo.com/",
+          "description": "An always free app for learning a new language."
         }
       ]
     },
