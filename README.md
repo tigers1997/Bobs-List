@@ -15,6 +15,7 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Python Packages](#python-packages)
 - [News](#news)
 - [Gardening](#gardening)
+- [Ai - Core](#ai-core)
 
 ---
 
@@ -114,6 +115,17 @@ Home Lawn and Gardening
 | Tool | Description |
 |------|-------------|
 | [Umass Amhearst - Weed Herbarium](https://extension.umass.edu/weed-herbarium/weedid/index.html) | UMass Extension Weed Herbarium (Index of Weeds) |
+
+---
+
+## Ai - Core
+
+Core areas of AI (Platform, Tools)
+
+| Tool | Description |
+|------|-------------|
+| [Cerebras Inference - Individuals](https://www.cerebras.ai/inference) | Get instant access to inference that’s up to 15x faster than NVIDIA GPUs — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​ |
+| [Hugginface](https://huggingface.co/) | The platform where the machine learning community collaborates on models, datasets, and applications. |
 
 ---
 
