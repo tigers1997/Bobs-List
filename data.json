@@ -157,6 +157,19 @@
           "description": "Since 2012, Trail of Bits has helped secure some of the world's most targeted organizations and products. We combine high-­end security research with a real­ world attacker mentality to reduce risk and fortify code."
         }
       ]
+    },
+    {
+      "id": "gardening",
+      "name": "Gardening",
+      "description": "Home Lawn and Gardening",
+      "entries": [
+        {
+          "id": "umass-amhearst-weed-herbarium-1780149735742",
+          "name": "Umass Amhearst - Weed Herbarium",
+          "url": "https://extension.umass.edu/weed-herbarium/weedid/index.html",
+          "description": "UMass Extension Weed Herbarium (Index of Weeds)"
+        }
+      ]
     }
   ]
 }
