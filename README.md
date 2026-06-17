@@ -10,12 +10,12 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Finance](#finance)
 - [Environmental](#environmental)
 - [Tech](#tech)
-- [Homelab Related](#homelab-related)
+- [Tech - Homelab Related](#homelab-related)
 - [Business](#business)
 - [Python Packages](#python-packages)
 - [News](#news)
 - [Gardening](#gardening)
-- [Ai - Core](#ai-core)
+- [Tech - Ai - Core](#ai-core)
 
 ---
 
@@ -63,7 +63,7 @@ All links tech and tech reference
 
 ---
 
-## Homelab Related
+## Tech - Homelab Related
 
 Repos and Tech with a HomeLab Focus
 
@@ -118,7 +118,7 @@ Home Lawn and Gardening
 
 ---
 
-## Ai - Core
+## Tech - Ai - Core
 
 Core areas of AI (Platform, Tools)
 

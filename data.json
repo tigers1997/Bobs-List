@@ -78,7 +78,7 @@
     },
     {
       "id": "homelab-related",
-      "name": "Homelab Related",
+      "name": "Tech - Homelab Related",
       "description": "Repos and Tech with a HomeLab Focus",
       "entries": [
         {
@@ -173,7 +173,7 @@
     },
     {
       "id": "ai-core",
-      "name": "Ai - Core",
+      "name": "Tech - Ai - Core",
       "description": "Core areas of AI (Platform, Tools)",
       "entries": [
         {
