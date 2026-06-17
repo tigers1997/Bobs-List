@@ -59,7 +59,7 @@ All links tech and tech reference
 
 | Tool | Description |
 |------|-------------|
-| [GPU Specs Database](https://www.techpowerup.com/gpu-specs/) | Comprehensive listing of GPU models and specs for AI-focused machines. |
+
 
 ---
 
@@ -71,6 +71,7 @@ Repos and Tech with a HomeLab Focus
 |------|-------------|
 | [Dell Optiplex models by year](https://www.hardware-corner.net/guides/optiplex-models-by-year/) | Useful for identifying donor machines. |
 | [AI Infrastructure TCO Calculator](https://huggingface.co/spaces/juliensimon/tco-simulator) | Compare API costs, self-hosted GPU, and local/edge deployment for AI inference workloads. |
+| [GPU Specs Database](https://www.techpowerup.com/gpu-specs/) | Comprehensive listing of GPU models and specs for AI-focused machines. |
 
 ---
 
