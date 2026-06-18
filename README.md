@@ -83,6 +83,7 @@ Business/Work Related
 |------|-------------|
 | [Storytelling with Data](https://www.storytellingwithdata.com/) | Their tagline says it all: We teach people to create graphs that make sense and present compelling, action-inspiring stories |
 | [Duolingo](https://www.duolingo.com/) | An always free app for learning a new language. |
+| [The 2025 MAD (ML, AI & Data) Landscape](https://mad.firstmark.com/) | Firm infographic |
 
 ---
 
