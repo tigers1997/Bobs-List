@@ -192,6 +192,12 @@
           "name": "Hugginface",
           "url": "https://huggingface.co/",
           "description": "The platform where the machine learning community collaborates on models, datasets, and applications."
+        },
+        {
+          "id": "molmo-and-other-open-models-1782000239527",
+          "name": "Molmo and other open models",
+          "url": "https://allenai.org/",
+          "description": ""
         }
       ]
     }
