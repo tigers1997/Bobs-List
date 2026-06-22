@@ -16,6 +16,7 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [News](#news)
 - [Gardening](#gardening)
 - [Tech - Ai - Core](#ai-core)
+- [Health](#health)
 
 ---
 
@@ -129,6 +130,16 @@ Core areas of AI (Platform, Tools)
 | [Cerebras Inference - Individuals](https://www.cerebras.ai/inference) | Get instant access to inference that’s up to 15x faster than NVIDIA GPUs — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​ |
 | [Hugginface](https://huggingface.co/) | The platform where the machine learning community collaborates on models, datasets, and applications. |
 | [Molmo and other open models](https://allenai.org/) |  |
+
+---
+
+## Health
+
+Health Related
+
+| Tool | Description |
+|------|-------------|
+| [Uri - Tick Specimen Identification](https://web.uri.edu/tickencounter/tickspotters/submit/) |  |
 
 ---
 

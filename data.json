@@ -200,6 +200,19 @@
           "description": ""
         }
       ]
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "description": "Health Related",
+      "entries": [
+        {
+          "id": "uri-tick-specimen-identification-1782091277283",
+          "name": "Uri - Tick Specimen Identification",
+          "url": "https://web.uri.edu/tickencounter/tickspotters/submit/",
+          "description": ""
+        }
+      ]
     }
   ]
 }
