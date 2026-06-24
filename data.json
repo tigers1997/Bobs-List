@@ -198,6 +198,30 @@
           "name": "Molmo and other open models",
           "url": "https://allenai.org/",
           "description": ""
+        },
+        {
+          "id": "gpt-llm-visualizer-1782095697099",
+          "name": "GPT LLM Visualizer",
+          "url": "https://bbycroft.net/llm",
+          "description": "Granular detail of each calculation performed in an example nano-GPT model."
+        },
+        {
+          "id": "tiktokenizer-1782095798339",
+          "name": "TikTokenizer",
+          "url": "https://tiktokenizer.vercel.app/?model=cl100k_base",
+          "description": "Online playground for OpenAPI tokenizers"
+        },
+        {
+          "id": "artofproblemsolving-com-1782232087050",
+          "name": "artofproblemsolving.com",
+          "url": "https://artofproblemsolving.com/wiki/",
+          "description": "The AoPS Wiki project is administered by the Art of Problem Solving for supporting educational content useful to avid math students."
+        },
+        {
+          "id": "common-crawl-open-crawl-results-1782264019192",
+          "name": "Common Crawl -- Open Crawl results",
+          "url": "https://commoncrawl.org/",
+          "description": "Common Crawl maintains a free, open repository of web crawl data that can be used by anyone."
         }
       ]
     },
@@ -211,6 +235,19 @@
           "name": "Uri - Tick Specimen Identification",
           "url": "https://web.uri.edu/tickencounter/tickspotters/submit/",
           "description": ""
+        }
+      ]
+    },
+    {
+      "id": "tech-tools",
+      "name": "Tech - Tools",
+      "description": "",
+      "entries": [
+        {
+          "id": "rufus-bootable-usb-writer-1782263899256",
+          "name": "Rufus Bootable USB writer",
+          "url": "https://rufus.ie/en/",
+          "description": "Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc."
         }
       ]
     }

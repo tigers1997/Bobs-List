@@ -17,6 +17,7 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Gardening](#gardening)
 - [Tech - Ai - Core](#ai-core)
 - [Health](#health)
+- [Tech - Tools](#tech-tools)
 
 ---
 
@@ -130,6 +131,10 @@ Core areas of AI (Platform, Tools)
 | [Cerebras Inference - Individuals](https://www.cerebras.ai/inference) | Get instant access to inference that’s up to 15x faster than NVIDIA GPUs — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​ |
 | [Hugginface](https://huggingface.co/) | The platform where the machine learning community collaborates on models, datasets, and applications. |
 | [Molmo and other open models](https://allenai.org/) |  |
+| [GPT LLM Visualizer](https://bbycroft.net/llm) | Granular detail of each calculation performed in an example nano-GPT model. |
+| [TikTokenizer](https://tiktokenizer.vercel.app/?model=cl100k_base) | Online playground for OpenAPI tokenizers |
+| [artofproblemsolving.com](https://artofproblemsolving.com/wiki/) | The AoPS Wiki project is administered by the Art of Problem Solving for supporting educational content useful to avid math students. |
+| [Common Crawl -- Open Crawl results](https://commoncrawl.org/) | Common Crawl maintains a free, open repository of web crawl data that can be used by anyone. |
 
 ---
 
@@ -140,6 +145,16 @@ Health Related
 | Tool | Description |
 |------|-------------|
 | [Uri - Tick Specimen Identification](https://web.uri.edu/tickencounter/tickspotters/submit/) |  |
+
+---
+
+## Tech - Tools
+
+
+
+| Tool | Description |
+|------|-------------|
+| [Rufus Bootable USB writer](https://rufus.ie/en/) | Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc. |
 
 ---
 
