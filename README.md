@@ -9,7 +9,6 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Developer](#developer-tools)
 - [Finance](#finance)
 - [Environmental](#environmental)
-- [Tech](#tech)
 - [Tech - Homelab Related](#homelab-related)
 - [Business](#business)
 - [Python Packages](#python-packages)
@@ -52,16 +51,6 @@ Tools, News, repos, links to coding or software development topics
 | [EU Copernicus](https://climate.copernicus.eu/) | The Copernicus Climate Change Service (C3S) supports society by providing authoritative information about the past, present and future climate in Europe and the rest of the World. |
 | [EEA Analysis and Datasets](https://www.eea.europa.eu/en/analysis) | The European Environment Agency (EEA) is an agency of the European Union and provides valuable insights on the state of Europe's environment. Thanks to reliable data collected from our extensive network, we actively support Europe's environment and climate policies. |
 | [NOAA Annual Greenhouse Gas Index](https://gml.noaa.gov/aggi/) |  |
-
----
-
-## Tech
-
-All links tech and tech reference
-
-| Tool | Description |
-|------|-------------|
-
 
 ---
 

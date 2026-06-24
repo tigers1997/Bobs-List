@@ -64,12 +64,6 @@
       ]
     },
     {
-      "id": "tech",
-      "name": "Tech",
-      "description": "All links tech and tech reference",
-      "entries": []
-    },
-    {
       "id": "homelab-related",
       "name": "Tech - Homelab Related",
       "description": "Repos and Tech with a HomeLab Focus",
