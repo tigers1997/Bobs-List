@@ -222,6 +222,12 @@
           "name": "Common Crawl -- Open Crawl results",
           "url": "https://commoncrawl.org/",
           "description": "Common Crawl maintains a free, open repository of web crawl data that can be used by anyone."
+        },
+        {
+          "id": "llm-scaler-intel-docker-1782264149152",
+          "name": "llm-scaler -- Intel Docker",
+          "url": "https://github.com/intel/llm-scaler",
+          "description": "LLM Scaler is an GenAI solution for text generation, image generation, video generation etc. running on Intel® Arc™ Pro B60 and B70 GPUs. LLM Scalar leverages standard frameworks such as vLLM, ComfyUI, SGLang Diffusion, Xinference etc and ensures the best performance for State-of-Art GenAI models running on Arc Pro B60/B70 GPUs."
         }
       ]
     },

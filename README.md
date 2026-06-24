@@ -135,6 +135,7 @@ Core areas of AI (Platform, Tools)
 | [TikTokenizer](https://tiktokenizer.vercel.app/?model=cl100k_base) | Online playground for OpenAPI tokenizers |
 | [artofproblemsolving.com](https://artofproblemsolving.com/wiki/) | The AoPS Wiki project is administered by the Art of Problem Solving for supporting educational content useful to avid math students. |
 | [Common Crawl -- Open Crawl results](https://commoncrawl.org/) | Common Crawl maintains a free, open repository of web crawl data that can be used by anyone. |
+| [llm-scaler -- Intel Docker](https://github.com/intel/llm-scaler) | LLM Scaler is an GenAI solution for text generation, image generation, video generation etc. running on Intel® Arc™ Pro B60 and B70 GPUs. LLM Scalar leverages standard frameworks such as vLLM, ComfyUI, SGLang Diffusion, Xinference etc and ensures the best performance for State-of-Art GenAI models running on Arc Pro B60/B70 GPUs. |
 
 ---
 
