@@ -254,6 +254,12 @@
           "name": "Rufus Bootable USB writer",
           "url": "https://rufus.ie/en/",
           "description": "Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc."
+        },
+        {
+          "id": "uefi-shell-images-iso-and-efi-for-bootable-usb-1782264322528",
+          "name": "UEFI Shell images (iso and efi) for bootable USB",
+          "url": "https://github.com/pbatard/UEFI-Shell/releases",
+          "description": "This repository contains pre-built UEFI Shell binary images, generated from official EDK2 stable releases.\n\nThese images are mostly provided in the form of a bootable ISO, in order to make them easy to use with boot media creators such as Rufus or to be written as optical disc bootable media."
         }
       ]
     }

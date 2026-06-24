@@ -156,6 +156,9 @@ Health Related
 | Tool | Description |
 |------|-------------|
 | [Rufus Bootable USB writer](https://rufus.ie/en/) | Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc. |
+| [UEFI Shell images (iso and efi) for bootable USB](https://github.com/pbatard/UEFI-Shell/releases) | This repository contains pre-built UEFI Shell binary images, generated from official EDK2 stable releases.
+
+These images are mostly provided in the form of a bootable ISO, in order to make them easy to use with boot media creators such as Rufus or to be written as optical disc bootable media. |
 
 ---
 
