@@ -16,6 +16,7 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Health](#health)
 - [Tech - Tools](#tech-tools)
 - [Tech - Eductional Sources](#tech-eductional-sources)
+- [Tech - AI Open Models](#tech-ai-open-models)
 
 ---
 
@@ -140,6 +141,16 @@ These images are mostly provided in the form of a bootable ISO, in order to make
 |------|-------------|
 | [Oreilly Learning](https://learning.oreilly.com/home) | Great resource for coding. May still have a 10-day trial for online content access |
 | [Arvix - Scholarly Archives - Cornell](https://arxiv.org/) | arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv. |
+
+---
+
+## Tech - AI Open Models
+
+Open Model home pages
+
+| Tool | Description |
+|------|-------------|
+
 
 ---
 
