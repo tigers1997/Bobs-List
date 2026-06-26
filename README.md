@@ -17,6 +17,7 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Tech - Tools](#tech-tools)
 - [Tech - Eductional Sources](#tech-eductional-sources)
 - [Tech - AI Open Models](#tech-ai-open-models)
+- [Tech - AI Benchmarks](#tech-ai-benchmarks)
 
 ---
 
@@ -99,7 +100,6 @@ Core areas of AI (Platform, Tools)
 |------|-------------|
 | [Cerebras Inference - Individuals](https://www.cerebras.ai/inference) | Get instant access to inference that’s up to 15x faster than NVIDIA GPUs — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​ |
 | [Hugginface](https://huggingface.co/) | The platform where the machine learning community collaborates on models, datasets, and applications. |
-| [Molmo and other open models](https://allenai.org/) |  |
 | [GPT LLM Visualizer](https://bbycroft.net/llm) | Granular detail of each calculation performed in an example nano-GPT model. |
 | [TikTokenizer](https://tiktokenizer.vercel.app/?model=cl100k_base) | Online playground for OpenAPI tokenizers |
 | [artofproblemsolving.com](https://artofproblemsolving.com/wiki/) | The AoPS Wiki project is administered by the Art of Problem Solving for supporting educational content useful to avid math students. |
@@ -150,7 +150,19 @@ Open Model home pages
 
 | Tool | Description |
 |------|-------------|
+| [Allen AI open Models](https://allenai.org/) | Allen open models, like Molmo |
+| [LMMS-Lab MultiModal Models](https://www.lmms-lab.com/) | Open research on multimodal models, evaluation, benchmarks, and lmms-eval tooling - shared as we discover. |
 
+---
+
+## Tech - AI Benchmarks
+
+
+
+| Tool | Description |
+|------|-------------|
+| [Docqva](https://www.docvqa.org/) | Document Visual Question Answering |
+| [DocQva Leaderboard](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=1) |  |
 
 ---
 

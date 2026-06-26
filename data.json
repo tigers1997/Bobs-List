@@ -162,12 +162,6 @@
           "description": "The platform where the machine learning community collaborates on models, datasets, and applications."
         },
         {
-          "id": "molmo-and-other-open-models-1782000239527",
-          "name": "Molmo and other open models",
-          "url": "https://allenai.org/",
-          "description": ""
-        },
-        {
           "id": "gpt-llm-visualizer-1782095697099",
           "name": "GPT LLM Visualizer",
           "url": "https://bbycroft.net/llm",
@@ -266,7 +260,39 @@
       "id": "tech-ai-open-models",
       "name": "Tech - AI Open Models",
       "description": "Open Model home pages",
-      "entries": []
+      "entries": [
+        {
+          "id": "molmo-and-other-open-models-1782000239527",
+          "name": "Allen AI open Models",
+          "url": "https://allenai.org/",
+          "description": "Allen open models, like Molmo"
+        },
+        {
+          "id": "lmms-lab-multimodal-models-1782485962385",
+          "name": "LMMS-Lab MultiModal Models",
+          "url": "https://www.lmms-lab.com/",
+          "description": "Open research on multimodal models, evaluation, benchmarks, and lmms-eval tooling - shared as we discover."
+        }
+      ]
+    },
+    {
+      "id": "tech-ai-benchmarks",
+      "name": "Tech - AI Benchmarks",
+      "description": "",
+      "entries": [
+        {
+          "id": "docqva-1782486102512",
+          "name": "Docqva",
+          "url": "https://www.docvqa.org/",
+          "description": "Document Visual Question Answering"
+        },
+        {
+          "id": "docqva-leaderboard-1782486166856",
+          "name": "DocQva Leaderboard",
+          "url": "https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=1",
+          "description": ""
+        }
+      ]
     }
   ]
 }
