@@ -96,8 +96,8 @@
     },
     {
       "id": "python-packages",
-      "name": "Python Packages",
-      "description": "My Favorite Python Packages",
+      "name": "Tech - Non AI Related",
+      "description": "Favorite or helpful: Links, Packages, Sources, etc.",
       "entries": [
         {
           "id": "stagehand-sdk-1775240655358",

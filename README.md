@@ -10,7 +10,7 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Environmental](#environmental)
 - [Tech - Homelab Related](#homelab-related)
 - [Business](#business)
-- [Python Packages](#python-packages)
+- [Tech - Non AI Related](#python-packages)
 - [News](#news)
 - [Gardening](#gardening)
 - [Tech - Ai - Core](#ai-core)
@@ -67,9 +67,9 @@ Business/Work Related
 
 ---
 
-## Python Packages
+## Tech - Non AI Related
 
-My Favorite Python Packages
+Favorite or helpful: Links, Packages, Sources, etc.
 
 | Tool | Description |
 |------|-------------|
