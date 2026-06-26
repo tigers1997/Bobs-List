@@ -7,7 +7,6 @@ A curated collection of useful links, resources, and references worth knowing ab
 ## Table of Contents
 
 - [Developer](#developer-tools)
-- [Finance](#finance)
 - [Environmental](#environmental)
 - [Tech - Homelab Related](#homelab-related)
 - [Business](#business)
@@ -28,16 +27,6 @@ Tools, News, repos, links to coding or software development topics
 | Tool | Description |
 |------|-------------|
 | [Trail of Bits Repos](https://github.com/trailofbits) | Trail of Bits Open Source repos of security tools. |
-
----
-
-## Finance
-
-
-
-| Tool | Description |
-|------|-------------|
-
 
 ---
 
