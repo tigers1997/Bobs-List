@@ -6,22 +6,10 @@
       "description": "Tools, News, repos, links to coding or software development topics",
       "entries": [
         {
-          "id": "detail",
-          "name": "Detail",
-          "url": "https://detail.dev/",
-          "description": "Scans your codebase to find serious bugs — exercises your code."
-        },
-        {
           "id": "trail-of-bits-repos-1776433699583",
           "name": "Trail of Bits Repos",
           "url": "https://github.com/trailofbits",
           "description": "Trail of Bits Open Source repos of security tools."
-        },
-        {
-          "id": "oreilly-learning-1776700363630",
-          "name": "Oreilly Learning",
-          "url": "https://learning.oreilly.com/home",
-          "description": "Great resource for coding. May still have a 10-day trial for online content access"
         }
       ]
     },
@@ -29,14 +17,7 @@
       "id": "finance",
       "name": "Finance",
       "description": "",
-      "entries": [
-        {
-          "id": "oanda-foreign-currency-converter-1774395784962",
-          "name": "Oanda Foreign Currency Converter",
-          "url": "https://www.oanda.com/currency-converter/",
-          "description": "Comprehensive resource for estimating currency exchange needs."
-        }
-      ]
+      "entries": []
     },
     {
       "id": "environmental",
@@ -110,6 +91,12 @@
           "name": "The 2025 MAD (ML, AI & Data) Landscape",
           "url": "https://mad.firstmark.com/",
           "description": "Firm infographic"
+        },
+        {
+          "id": "oanda-foreign-currency-converter-1774395784962",
+          "name": "Oanda Foreign Currency Converter",
+          "url": "https://www.oanda.com/currency-converter/",
+          "description": "Comprehensive resource for estimating currency exchange needs."
         }
       ]
     },
@@ -260,6 +247,25 @@
           "name": "UEFI Shell images (iso and efi) for bootable USB",
           "url": "https://github.com/pbatard/UEFI-Shell/releases",
           "description": "This repository contains pre-built UEFI Shell binary images, generated from official EDK2 stable releases.\n\nThese images are mostly provided in the form of a bootable ISO, in order to make them easy to use with boot media creators such as Rufus or to be written as optical disc bootable media."
+        },
+        {
+          "id": "detail",
+          "name": "Detail",
+          "url": "https://detail.dev/",
+          "description": "Scans your codebase to find serious bugs — exercises your code."
+        }
+      ]
+    },
+    {
+      "id": "tech-eductional-sources",
+      "name": "Tech - Eductional Sources",
+      "description": "",
+      "entries": [
+        {
+          "id": "oreilly-learning-1776700363630",
+          "name": "Oreilly Learning",
+          "url": "https://learning.oreilly.com/home",
+          "description": "Great resource for coding. May still have a 10-day trial for online content access"
         }
       ]
     }

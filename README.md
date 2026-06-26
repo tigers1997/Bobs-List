@@ -17,6 +17,7 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Tech - Ai - Core](#ai-core)
 - [Health](#health)
 - [Tech - Tools](#tech-tools)
+- [Tech - Eductional Sources](#tech-eductional-sources)
 
 ---
 
@@ -26,9 +27,7 @@ Tools, News, repos, links to coding or software development topics
 
 | Tool | Description |
 |------|-------------|
-| [Detail](https://detail.dev/) | Scans your codebase to find serious bugs — exercises your code. |
 | [Trail of Bits Repos](https://github.com/trailofbits) | Trail of Bits Open Source repos of security tools. |
-| [Oreilly Learning](https://learning.oreilly.com/home) | Great resource for coding. May still have a 10-day trial for online content access |
 
 ---
 
@@ -38,7 +37,7 @@ Tools, News, repos, links to coding or software development topics
 
 | Tool | Description |
 |------|-------------|
-| [Oanda Foreign Currency Converter](https://www.oanda.com/currency-converter/) | Comprehensive resource for estimating currency exchange needs. |
+
 
 ---
 
@@ -75,6 +74,7 @@ Business/Work Related
 | [Storytelling with Data](https://www.storytellingwithdata.com/) | Their tagline says it all: We teach people to create graphs that make sense and present compelling, action-inspiring stories |
 | [Duolingo](https://www.duolingo.com/) | An always free app for learning a new language. |
 | [The 2025 MAD (ML, AI & Data) Landscape](https://mad.firstmark.com/) | Firm infographic |
+| [Oanda Foreign Currency Converter](https://www.oanda.com/currency-converter/) | Comprehensive resource for estimating currency exchange needs. |
 
 ---
 
@@ -149,6 +149,17 @@ Health Related
 | [UEFI Shell images (iso and efi) for bootable USB](https://github.com/pbatard/UEFI-Shell/releases) | This repository contains pre-built UEFI Shell binary images, generated from official EDK2 stable releases.
 
 These images are mostly provided in the form of a bootable ISO, in order to make them easy to use with boot media creators such as Rufus or to be written as optical disc bootable media. |
+| [Detail](https://detail.dev/) | Scans your codebase to find serious bugs — exercises your code. |
+
+---
+
+## Tech - Eductional Sources
+
+
+
+| Tool | Description |
+|------|-------------|
+| [Oreilly Learning](https://learning.oreilly.com/home) | Great resource for coding. May still have a 10-day trial for online content access |
 
 ---
 
