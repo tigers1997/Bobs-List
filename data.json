@@ -162,22 +162,10 @@
           "description": "The platform where the machine learning community collaborates on models, datasets, and applications."
         },
         {
-          "id": "gpt-llm-visualizer-1782095697099",
-          "name": "GPT LLM Visualizer",
-          "url": "https://bbycroft.net/llm",
-          "description": "Granular detail of each calculation performed in an example nano-GPT model."
-        },
-        {
           "id": "tiktokenizer-1782095798339",
           "name": "TikTokenizer",
           "url": "https://tiktokenizer.vercel.app/?model=cl100k_base",
           "description": "Online playground for OpenAPI tokenizers"
-        },
-        {
-          "id": "artofproblemsolving-com-1782232087050",
-          "name": "artofproblemsolving.com",
-          "url": "https://artofproblemsolving.com/wiki/",
-          "description": "The AoPS Wiki project is administered by the Art of Problem Solving for supporting educational content useful to avid math students."
         },
         {
           "id": "common-crawl-open-crawl-results-1782264019192",
@@ -253,6 +241,12 @@
           "name": "Arvix - Scholarly Archives - Cornell",
           "url": "https://arxiv.org/",
           "description": "arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv."
+        },
+        {
+          "id": "gpt-llm-visualizer-1782095697099",
+          "name": "GPT LLM Visualizer",
+          "url": "https://bbycroft.net/llm",
+          "description": "Granular detail of each calculation performed in an example nano-GPT model."
         }
       ]
     },
@@ -291,6 +285,12 @@
           "name": "DocQva Leaderboard",
           "url": "https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=1",
           "description": ""
+        },
+        {
+          "id": "artofproblemsolving-com-1782232087050",
+          "name": "artofproblemsolving.com",
+          "url": "https://artofproblemsolving.com/wiki/",
+          "description": "The AoPS Wiki project is administered by the Art of Problem Solving for supporting educational content useful to avid math students."
         }
       ]
     }

@@ -100,9 +100,7 @@ Core areas of AI (Platform, Tools)
 |------|-------------|
 | [Cerebras Inference - Individuals](https://www.cerebras.ai/inference) | Get instant access to inference that’s up to 15x faster than NVIDIA GPUs — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​ |
 | [Hugginface](https://huggingface.co/) | The platform where the machine learning community collaborates on models, datasets, and applications. |
-| [GPT LLM Visualizer](https://bbycroft.net/llm) | Granular detail of each calculation performed in an example nano-GPT model. |
 | [TikTokenizer](https://tiktokenizer.vercel.app/?model=cl100k_base) | Online playground for OpenAPI tokenizers |
-| [artofproblemsolving.com](https://artofproblemsolving.com/wiki/) | The AoPS Wiki project is administered by the Art of Problem Solving for supporting educational content useful to avid math students. |
 | [Common Crawl -- Open Crawl results](https://commoncrawl.org/) | Common Crawl maintains a free, open repository of web crawl data that can be used by anyone. |
 | [llm-scaler -- Intel Docker](https://github.com/intel/llm-scaler) | LLM Scaler is an GenAI solution for text generation, image generation, video generation etc. running on Intel® Arc™ Pro B60 and B70 GPUs. LLM Scalar leverages standard frameworks such as vLLM, ComfyUI, SGLang Diffusion, Xinference etc and ensures the best performance for State-of-Art GenAI models running on Arc Pro B60/B70 GPUs. |
 | [Codream.ai](https://app.codream.ai/) | A new interactive learning experience where you can interrupt the presentation anytime to ask a question, plus a fully featured AI coding environment where you can build real applications. |
@@ -141,6 +139,7 @@ These images are mostly provided in the form of a bootable ISO, in order to make
 |------|-------------|
 | [Oreilly Learning](https://learning.oreilly.com/home) | Great resource for coding. May still have a 10-day trial for online content access |
 | [Arvix - Scholarly Archives - Cornell](https://arxiv.org/) | arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv. |
+| [GPT LLM Visualizer](https://bbycroft.net/llm) | Granular detail of each calculation performed in an example nano-GPT model. |
 
 ---
 
@@ -163,6 +162,7 @@ Open Model home pages
 |------|-------------|
 | [Docqva](https://www.docvqa.org/) | Document Visual Question Answering |
 | [DocQva Leaderboard](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=1) |  |
+| [artofproblemsolving.com](https://artofproblemsolving.com/wiki/) | The AoPS Wiki project is administered by the Art of Problem Solving for supporting educational content useful to avid math students. |
 
 ---
 
