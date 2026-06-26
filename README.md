@@ -128,6 +128,7 @@ Health Related
 
 These images are mostly provided in the form of a bootable ISO, in order to make them easy to use with boot media creators such as Rufus or to be written as optical disc bootable media. |
 | [Detail](https://detail.dev/) | Scans your codebase to find serious bugs — exercises your code. |
+| [Claude Code Configurator Harness for better efficiency and quality](https://github.com/tigers1997/ClaudeCodeConfigurator) |  |
 
 ---
 

@@ -222,6 +222,12 @@
           "name": "Detail",
           "url": "https://detail.dev/",
           "description": "Scans your codebase to find serious bugs — exercises your code."
+        },
+        {
+          "id": "claude-code-configurator-harness-for-better-efficiency-and-quality-1782488307848",
+          "name": "Claude Code Configurator Harness for better efficiency and quality",
+          "url": "https://github.com/tigers1997/ClaudeCodeConfigurator",
+          "description": ""
         }
       ]
     },
