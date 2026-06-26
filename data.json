@@ -1,12 +1,6 @@
 {
   "categories": [
     {
-      "id": "developer-tools",
-      "name": "Developer",
-      "description": "Tools, News, repos, links to coding or software development topics",
-      "entries": []
-    },
-    {
       "id": "environmental",
       "name": "Environmental",
       "description": "",

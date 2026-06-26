@@ -6,7 +6,6 @@ A curated collection of useful links, resources, and references worth knowing ab
 
 ## Table of Contents
 
-- [Developer](#developer-tools)
 - [Environmental](#environmental)
 - [Tech - Homelab Related](#homelab-related)
 - [Business](#business)
@@ -17,16 +16,6 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Health](#health)
 - [Tech - Tools](#tech-tools)
 - [Tech - Eductional Sources](#tech-eductional-sources)
-
----
-
-## Developer
-
-Tools, News, repos, links to coding or software development topics
-
-| Tool | Description |
-|------|-------------|
-
 
 ---
 
