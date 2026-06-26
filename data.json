@@ -253,6 +253,12 @@
           "name": "Oreilly Learning",
           "url": "https://learning.oreilly.com/home",
           "description": "Great resource for coding. May still have a 10-day trial for online content access"
+        },
+        {
+          "id": "arvix-scholarly-archives-cornell-1782485708698",
+          "name": "Arvix - Scholarly Archives - Cornell",
+          "url": "https://arxiv.org/",
+          "description": "arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv."
         }
       ]
     }
