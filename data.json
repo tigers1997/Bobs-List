@@ -4,14 +4,7 @@
       "id": "developer-tools",
       "name": "Developer",
       "description": "Tools, News, repos, links to coding or software development topics",
-      "entries": [
-        {
-          "id": "trail-of-bits-repos-1776433699583",
-          "name": "Trail of Bits Repos",
-          "url": "https://github.com/trailofbits",
-          "description": "Trail of Bits Open Source repos of security tools."
-        }
-      ]
+      "entries": []
     },
     {
       "id": "environmental",
@@ -104,6 +97,12 @@
           "name": "Stagehand SDK",
           "url": "https://github.com/browserbase/stagehand",
           "description": "browser automation framework"
+        },
+        {
+          "id": "trail-of-bits-repos-1776433699583",
+          "name": "Trail of Bits Repos",
+          "url": "https://github.com/trailofbits",
+          "description": "Trail of Bits Open Source repos of security tools."
         }
       ]
     },
@@ -145,7 +144,7 @@
       "entries": [
         {
           "id": "umass-amhearst-weed-herbarium-1780149735742",
-          "name": "Umass Amhearst - Weed Herbarium",
+          "name": "Umass Amherst - Weed Herbarium",
           "url": "https://extension.umass.edu/weed-herbarium/weedid/index.html",
           "description": "UMass Extension Weed Herbarium (Index of Weeds)"
         }

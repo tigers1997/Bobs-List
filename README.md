@@ -26,7 +26,7 @@ Tools, News, repos, links to coding or software development topics
 
 | Tool | Description |
 |------|-------------|
-| [Trail of Bits Repos](https://github.com/trailofbits) | Trail of Bits Open Source repos of security tools. |
+
 
 ---
 
@@ -74,6 +74,7 @@ Favorite or helpful: Links, Packages, Sources, etc.
 | Tool | Description |
 |------|-------------|
 | [Stagehand SDK](https://github.com/browserbase/stagehand) | browser automation framework |
+| [Trail of Bits Repos](https://github.com/trailofbits) | Trail of Bits Open Source repos of security tools. |
 
 ---
 
@@ -96,7 +97,7 @@ Home Lawn and Gardening
 
 | Tool | Description |
 |------|-------------|
-| [Umass Amhearst - Weed Herbarium](https://extension.umass.edu/weed-herbarium/weedid/index.html) | UMass Extension Weed Herbarium (Index of Weeds) |
+| [Umass Amherst - Weed Herbarium](https://extension.umass.edu/weed-herbarium/weedid/index.html) | UMass Extension Weed Herbarium (Index of Weeds) |
 
 ---
 
