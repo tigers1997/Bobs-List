@@ -190,6 +190,12 @@
           "name": "Andrew Ng - Context Hub",
           "url": "https://github.com/andrewyng/context-hub",
           "description": "Coding agents hallucinate APIs and forget what they learn in a session. Context Hub gives them curated, versioned docs, plus the ability to get smarter with every task. All content is open and maintained as markdown in this repo — you can inspect exactly what your agent reads, and contribute back."
+        },
+        {
+          "id": "sonatype-guide-dependency-management-1783441231374",
+          "name": "SONATYPE GUIDE  Dependency Management",
+          "url": "https://guide.sonatype.com/",
+          "description": "Sonatype Guide fills that gap by giving AI assistants real-time open source intelligence, ensuring they select the right components so your team can move fast, safely."
         }
       ]
     },

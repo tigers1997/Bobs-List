@@ -105,6 +105,7 @@ Core areas of AI (Platform, Tools)
 | [llm-scaler -- Intel Docker](https://github.com/intel/llm-scaler) | LLM Scaler is an GenAI solution for text generation, image generation, video generation etc. running on Intel® Arc™ Pro B60 and B70 GPUs. LLM Scalar leverages standard frameworks such as vLLM, ComfyUI, SGLang Diffusion, Xinference etc and ensures the best performance for State-of-Art GenAI models running on Arc Pro B60/B70 GPUs. |
 | [Codream.ai](https://app.codream.ai/) | A new interactive learning experience where you can interrupt the presentation anytime to ask a question, plus a fully featured AI coding environment where you can build real applications. |
 | [Andrew Ng - Context Hub](https://github.com/andrewyng/context-hub) | Coding agents hallucinate APIs and forget what they learn in a session. Context Hub gives them curated, versioned docs, plus the ability to get smarter with every task. All content is open and maintained as markdown in this repo — you can inspect exactly what your agent reads, and contribute back. |
+| [SONATYPE GUIDE  Dependency Management](https://guide.sonatype.com/) | Sonatype Guide fills that gap by giving AI assistants real-time open source intelligence, ensuring they select the right components so your team can move fast, safely. |
 
 ---
 
