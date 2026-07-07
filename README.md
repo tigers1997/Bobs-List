@@ -165,6 +165,9 @@ Open Model home pages
 | [Docqva](https://www.docvqa.org/) | Document Visual Question Answering |
 | [DocQva Leaderboard](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=1) |  |
 | [artofproblemsolving.com](https://artofproblemsolving.com/wiki/) | The AoPS Wiki project is administered by the Art of Problem Solving for supporting educational content useful to avid math students. |
+| [SWE-Marathon](https://swe-marathon.vercel.app/) | 20 realistic, multi-hour SWE tasks to challenge frontier coding agents. |
+| [PostTrainBench](https://posttrainbench.com/) | Measuring how well AI agents can post-train language models. -- We give each agent 4 small target LLMs, an H100 GPU, and 10 hours to post-train them. |
+| [FrontierSWE](https://www.frontierswe.com/) | Benchmarking software engineering skill at the edge of human ability. |
 
 ---
 

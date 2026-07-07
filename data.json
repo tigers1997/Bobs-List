@@ -303,6 +303,24 @@
           "name": "artofproblemsolving.com",
           "url": "https://artofproblemsolving.com/wiki/",
           "description": "The AoPS Wiki project is administered by the Art of Problem Solving for supporting educational content useful to avid math students."
+        },
+        {
+          "id": "swe-marathon-1783370472618",
+          "name": "SWE-Marathon",
+          "url": "https://swe-marathon.vercel.app/",
+          "description": "20 realistic, multi-hour SWE tasks to challenge frontier coding agents."
+        },
+        {
+          "id": "posttrainbench-1783370556922",
+          "name": "PostTrainBench",
+          "url": "https://posttrainbench.com/",
+          "description": "Measuring how well AI agents can post-train language models. -- We give each agent 4 small target LLMs, an H100 GPU, and 10 hours to post-train them."
+        },
+        {
+          "id": "frontierswe-1783370746005",
+          "name": "FrontierSWE",
+          "url": "https://www.frontierswe.com/",
+          "description": "Benchmarking software engineering skill at the edge of human ability."
         }
       ]
     }
