@@ -150,18 +150,6 @@
       "description": "Core areas of AI (Platform, Tools)",
       "entries": [
         {
-          "id": "cerebras-inference-individuals-1780163800880",
-          "name": "Cerebras Inference - Individuals",
-          "url": "https://www.cerebras.ai/inference",
-          "description": "Get instant access to inference that’s up to 15x faster than NVIDIA GPUs — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​"
-        },
-        {
-          "id": "hugginface-1780163933002",
-          "name": "Hugginface",
-          "url": "https://huggingface.co/",
-          "description": "The platform where the machine learning community collaborates on models, datasets, and applications."
-        },
-        {
           "id": "tiktokenizer-1782095798339",
           "name": "TikTokenizer",
           "url": "https://tiktokenizer.vercel.app/?model=cl100k_base",
@@ -327,6 +315,31 @@
           "name": "FrontierSWE",
           "url": "https://www.frontierswe.com/",
           "description": "Benchmarking software engineering skill at the edge of human ability."
+        }
+      ]
+    },
+    {
+      "id": "tech-ai-inference-compute-hosting",
+      "name": "Tech - AI - Inference/Compute Hosting",
+      "description": "",
+      "entries": [
+        {
+          "id": "cerebras-inference-individuals-1780163800880",
+          "name": "Cerebras Inference - Individuals",
+          "url": "https://www.cerebras.ai/inference",
+          "description": "Get instant access to inference that’s up to 15x faster than NVIDIA GPUs — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​"
+        },
+        {
+          "id": "hugginface-1780163933002",
+          "name": "Hugginface",
+          "url": "https://huggingface.co/",
+          "description": "The platform where the machine learning community collaborates on models, datasets, and applications."
+        },
+        {
+          "id": "together-ai-1783518346972",
+          "name": "Together AI",
+          "url": "https://www.together.ai/",
+          "description": "Build what's next on the AI Native Cloud.\nFull-stack AI platform, powered by cutting-edge research."
         }
       ]
     }

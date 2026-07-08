@@ -18,6 +18,7 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Tech - Eductional Sources](#tech-eductional-sources)
 - [Tech - AI Open Models](#tech-ai-open-models)
 - [Tech - AI Benchmarks](#tech-ai-benchmarks)
+- [Tech - AI - Inference/Compute Hosting](#tech-ai-inference-compute-hosting)
 
 ---
 
@@ -98,8 +99,6 @@ Core areas of AI (Platform, Tools)
 
 | Tool | Description |
 |------|-------------|
-| [Cerebras Inference - Individuals](https://www.cerebras.ai/inference) | Get instant access to inference that’s up to 15x faster than NVIDIA GPUs — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​ |
-| [Hugginface](https://huggingface.co/) | The platform where the machine learning community collaborates on models, datasets, and applications. |
 | [TikTokenizer](https://tiktokenizer.vercel.app/?model=cl100k_base) | Online playground for OpenAPI tokenizers |
 | [Common Crawl -- Open Crawl results](https://commoncrawl.org/) | Common Crawl maintains a free, open repository of web crawl data that can be used by anyone. |
 | [llm-scaler -- Intel Docker](https://github.com/intel/llm-scaler) | LLM Scaler is an GenAI solution for text generation, image generation, video generation etc. running on Intel® Arc™ Pro B60 and B70 GPUs. LLM Scalar leverages standard frameworks such as vLLM, ComfyUI, SGLang Diffusion, Xinference etc and ensures the best performance for State-of-Art GenAI models running on Arc Pro B60/B70 GPUs. |
@@ -169,6 +168,19 @@ Open Model home pages
 | [SWE-Marathon](https://swe-marathon.vercel.app/) | 20 realistic, multi-hour SWE tasks to challenge frontier coding agents. |
 | [PostTrainBench](https://posttrainbench.com/) | Measuring how well AI agents can post-train language models. -- We give each agent 4 small target LLMs, an H100 GPU, and 10 hours to post-train them. |
 | [FrontierSWE](https://www.frontierswe.com/) | Benchmarking software engineering skill at the edge of human ability. |
+
+---
+
+## Tech - AI - Inference/Compute Hosting
+
+
+
+| Tool | Description |
+|------|-------------|
+| [Cerebras Inference - Individuals](https://www.cerebras.ai/inference) | Get instant access to inference that’s up to 15x faster than NVIDIA GPUs — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​ |
+| [Hugginface](https://huggingface.co/) | The platform where the machine learning community collaborates on models, datasets, and applications. |
+| [Together AI](https://www.together.ai/) | Build what's next on the AI Native Cloud.
+Full-stack AI platform, powered by cutting-edge research. |
 
 ---
 
