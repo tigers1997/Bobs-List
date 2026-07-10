@@ -253,6 +253,12 @@
           "name": "GPT LLM Visualizer",
           "url": "https://bbycroft.net/llm",
           "description": "Granular detail of each calculation performed in an example nano-GPT model."
+        },
+        {
+          "id": "unicode-standards-1783701961137",
+          "name": "Unicode Standards",
+          "url": "https://home.unicode.org/",
+          "description": "The Unicode Consortium is the premier standards organization for internationalization of software and services, including the encoding of text for all modern computing systems. The Consortium supports internationalization with the Unicode Standard and by providing core libraries, software algorithms, and structured data."
         }
       ]
     },

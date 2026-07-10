@@ -142,6 +142,7 @@ These images are mostly provided in the form of a bootable ISO, in order to make
 | [Oreilly Learning](https://learning.oreilly.com/home) | Great resource for coding. May still have a 10-day trial for online content access |
 | [Arvix - Scholarly Archives - Cornell](https://arxiv.org/) | arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv. |
 | [GPT LLM Visualizer](https://bbycroft.net/llm) | Granular detail of each calculation performed in an example nano-GPT model. |
+| [Unicode Standards](https://home.unicode.org/) | The Unicode Consortium is the premier standards organization for internationalization of software and services, including the encoding of text for all modern computing systems. The Consortium supports internationalization with the Unicode Standard and by providing core libraries, software algorithms, and structured data. |
 
 ---
 
