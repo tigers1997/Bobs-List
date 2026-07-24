@@ -19,6 +19,7 @@ A curated collection of useful links, resources, and references worth knowing ab
 - [Tech - AI Open Models](#tech-ai-open-models)
 - [Tech - AI Benchmarks](#tech-ai-benchmarks)
 - [Tech - AI - Inference/Compute Hosting](#tech-ai-inference-compute-hosting)
+- [Tech - PCB - Related](#tech-pcb-related)
 
 ---
 
@@ -169,6 +170,8 @@ Open Model home pages
 | [SWE-Marathon](https://swe-marathon.vercel.app/) | 20 realistic, multi-hour SWE tasks to challenge frontier coding agents. |
 | [PostTrainBench](https://posttrainbench.com/) | Measuring how well AI agents can post-train language models. -- We give each agent 4 small target LLMs, an H100 GPU, and 10 hours to post-train them. |
 | [FrontierSWE](https://www.frontierswe.com/) | Benchmarking software engineering skill at the edge of human ability. |
+| [ScaleAI -- Benchmarks for frontier, agentic, and safety capabilities](https://labs.scale.com/leaderboard) | 20+ Benchmarks
+Including benchmarks on agentic coding, frontier reasoning, and safety alignment. |
 
 ---
 
@@ -182,6 +185,16 @@ Open Model home pages
 | [Hugginface](https://huggingface.co/) | The platform where the machine learning community collaborates on models, datasets, and applications. |
 | [Together AI](https://www.together.ai/) | Build what's next on the AI Native Cloud.
 Full-stack AI platform, powered by cutting-edge research. |
+
+---
+
+## Tech - PCB - Related
+
+PCB design, testing & construction tools, services, and resources.
+
+| Tool | Description |
+|------|-------------|
+
 
 ---
 

@@ -321,6 +321,12 @@
           "name": "FrontierSWE",
           "url": "https://www.frontierswe.com/",
           "description": "Benchmarking software engineering skill at the edge of human ability."
+        },
+        {
+          "id": "scaleai-benchmarks-for-frontier-agentic-and-safety-capabilities-1784936490366",
+          "name": "ScaleAI -- Benchmarks for frontier, agentic, and safety capabilities",
+          "url": "https://labs.scale.com/leaderboard",
+          "description": "20+ Benchmarks\nIncluding benchmarks on agentic coding, frontier reasoning, and safety alignment."
         }
       ]
     },
@@ -348,6 +354,12 @@
           "description": "Build what's next on the AI Native Cloud.\nFull-stack AI platform, powered by cutting-edge research."
         }
       ]
+    },
+    {
+      "id": "tech-pcb-related",
+      "name": "Tech - PCB - Related",
+      "description": "PCB design, testing & construction tools, services, and resources.",
+      "entries": []
     }
   ]
 }
